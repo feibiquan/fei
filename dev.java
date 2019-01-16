@@ -7,6 +7,6 @@
 
 
 
-分支添加信息feature1
+分支添加信息feature1--修复一下bug先
 
 master要去修改bug了 但我feature1还没有提交
